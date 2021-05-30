@@ -1,0 +1,10 @@
+name: TheWhalezazaLib
+version: 0.1
+main: me.thewhalezaza.thewhalezazalib.TWZLibraly
+api-version: 1.16
+authors: [ TheWhalezaza ]
+description: TWZLibraly
+
+commands:
+  tlib:
+    usage: /tlib
